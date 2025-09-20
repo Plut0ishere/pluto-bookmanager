@@ -91,7 +91,7 @@ fun searchByAuthor() {
 fun showBook() {
     ListBook.count = 1
     for (item in ListBook.listBook) {
-        print("${ListBook.count} - Book's name : ${item.name} | Book's author: ${item.author} | Book's ISBN : ${item.num} \n")
+        print("${ListBook.count} - Book's title : ${item.name} | Book's author: ${item.author} | Book's ISBN : ${item.num} \n")
         ListBook.count++
     }
 }
