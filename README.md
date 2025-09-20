@@ -10,7 +10,7 @@ To get started with this project, you will need to clone the repository and have
    ```
 2. **Run The Project Using IntelliJ IDEA**:
 
-   After you cloned the project, just locate it in IntelliJ IDEA, go into 'src' folder, open the kt file and then run the project!
+   After you cloned the project, just locate it in IntelliJ IDEA, go into 'src' folder, open 'PlutoBookManager.kt' and then run the project!
    
 ## Usage 
 Once the project is running, you can add your books, remove them or search them by book's title or author's name.
