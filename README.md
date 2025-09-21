@@ -1,5 +1,20 @@
 # 📚Pluto Book Manager📚 (Simple Kotlin Project)
-This is a simple kotlin project for adding and removing your books, basically a simple library!
+A tiny kotlin project for adding and removing your books, basically a simple library!
+
+## Table Of Contents
+
+- [Preview](#preview)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [License](#license)
+
+## Preview
+<img width="2570" height="724" alt="Screenshot_20250921_151947-1" src="https://github.com/user-attachments/assets/af956048-72d7-40a3-90ce-069ed102e818" />
+
+## Technologies Used
+- **Kotlin**
+
 ## Getting Started
 To get started with this project, you will need to clone the repository and have IntelliJ IDEA installed. Follow the steps below:
 
